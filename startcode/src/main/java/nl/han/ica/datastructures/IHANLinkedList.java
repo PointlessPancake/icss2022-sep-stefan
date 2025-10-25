@@ -38,7 +38,7 @@ public interface IHANLinkedList<T> {
     void removeFirst();
 
     /**
-     * Returns first element in O(n) time
+     * Returns first element in O(1) time
      * @return first element
      */
     T getFirst();
