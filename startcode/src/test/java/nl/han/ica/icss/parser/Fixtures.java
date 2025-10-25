@@ -232,16 +232,6 @@ public class Fixtures {
 				.addChild(new BoolLiteral(false))
 		);
    	    /*
-	        p {
-				background-color: #ffffff;
-				width: ParWidth;
-				if[AdjustColor] {
-	    			color: #124532;
-	    			if[UseLinkColor]{
-	        			bg-color: LinkColor;
-	    			}
-				}
-			}
 			p {
 				background-color: #ffffff;
 				width: ParWidth;
